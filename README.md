@@ -33,4 +33,4 @@ If you have any suggestions, questions or in case of a fire, you can reach the d
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Copyright &copy; 2021 **[peterken674](www.github.com/easthermutheumwengei)**
+Copyright &copy; 2021 **[easthermutheumwengei](www.github.com/easthermutheumwengei)**
