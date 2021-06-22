@@ -10,7 +10,7 @@ This a company website for a design company called Delani Studio showing a descr
 
 ## Setup/Installation
 
-To view the website, go to []().
+To view the website, go to [https://easthermutheumwengei.github.io/Delani/](https://easthermutheumwengei.github.io/Delani/).
 Scroll to move between the sections.
 
 ## Known Bugs
